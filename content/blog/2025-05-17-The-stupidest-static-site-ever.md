@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="../style.css">
 <link rel="preconnect" href="https://rsms.me/">
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+<title>manigohan's website</title>
 
 ## manigohan's blog site
 
