@@ -30,6 +30,14 @@ welcome
     </p>
     <cite>Jack from <a href="https://jack.cab">jack.cab</a></cite>
 </blockquote>
+
+<blockquote>
+    <p>
+        That's your Asian "Let's connect 🔥🤝" kicking in
+    </p>
+    <cite>Jack from <a href="https://jack.cab">jack.cab</a>, on me making a 88x31</cite>
+</blockquote>
+
 <blockquote>
     <p>
         What is it with bottoms and being good programmers
