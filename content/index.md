@@ -36,6 +36,13 @@ this is inspired off [rms' website](https://stallman.org) and [mir's website](ht
 
 <blockquote>
     <p>
+        we will sleep together tonight [sic]
+    </p>
+    <cite>glorifiedtoast3</cite>
+</blockquote>
+
+<blockquote>
+    <p>
         NEVER EVER STATE THAT YOU ARE INSPIRED BY RMS THIS DECADE
     </p>
     <cite>Jack from <a href="https://jack.cab">jack.cab</a></cite>
