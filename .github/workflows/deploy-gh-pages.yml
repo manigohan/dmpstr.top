@@ -34,13 +34,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v4
-        with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
+      - name: Install npm
+        run: sudo apt update \
+             sudo apt upgrade \
+             sudo apt install nodejs npm
       - name: Build website
-        run: npm install -g marker \
+        run: sudo npm install -g marker \
               bash ./build.sh
       - name: Setup Pages
         uses: actions/configure-pages@v5
