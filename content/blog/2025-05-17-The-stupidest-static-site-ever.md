@@ -9,6 +9,7 @@
 <link rel="preconnect" href="https://rsms.me/">
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 <title>manigohan's website</title>
+<meta content="The stupidest static site ever -- and how I made it \ manigohan's blog" property="og:title" />
 
 ## manigohan's blog site
 

@@ -2,7 +2,8 @@
 <link rel="stylesheet" href="../style.css">
 <link rel="preconnect" href="https://rsms.me/">
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
-<title>manigohan's website</title>
+<title>manigohan's blog</title>
+<meta content="manigohan's blog" property="og:title" />
 
 <style>
     header {

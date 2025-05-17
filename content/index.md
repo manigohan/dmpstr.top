@@ -3,6 +3,7 @@
 <link rel="preconnect" href="https://rsms.me/">
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 <title>manigohan's website</title>
+<meta content="manigohan's website" property="og:title" />
 
 ## manigohan's website
 
