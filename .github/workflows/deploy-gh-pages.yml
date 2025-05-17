@@ -35,6 +35,8 @@ jobs:
           lfs: true
       - name: Install npm
         run: sudo apt update && sudo apt upgrade && sudo apt install nodejs npm
+      - name: Pull LFS objects
+        run: git lfs checkout
       - name: Build website
         run: sudo npm install -g marked && bash ./build.sh
       - name: Setup Pages
