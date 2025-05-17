@@ -45,4 +45,12 @@ welcome
     <cite>May from <a href="https://split.pet">split.pet</a></cite>
 </blockquote>
 
+<blockquote>
+    <p>
+        L + Skill issue + unexpected operator + missing post data
+    </p>
+    <cite>ivan_stalingrad from !2</cite>
+</blockquote>
+
+
 this is inspired off [rms' website](https://stallman.org) and [mir's website](https://marq42.xyz). don't expect anything good here
