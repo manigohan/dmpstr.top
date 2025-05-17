@@ -24,49 +24,10 @@ welcome
 - [home](#)
 - [blog](blog/index.html)
 - [my gpg key](gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
+- [quotes from the best](quotes.html)
 
 this is inspired off [rms' website](https://stallman.org) and [mir's website](https://marq42.xyz). don't expect anything good here
 
-<blockquote>
-    <p>
-        [...] I LOVE YOU        
-    </p>
-    <cite>April (april865)</cite>
-</blockquote>
-
-<blockquote>
-    <p>
-        we will sleep together tonight [sic]
-    </p>
-    <cite>glorifiedtoast3</cite>
-</blockquote>
-
-<blockquote>
-    <p>
-        NEVER EVER STATE THAT YOU ARE INSPIRED BY RMS THIS DECADE
-    </p>
-    <cite>Jack from <a href="https://jack.cab">jack.cab</a></cite>
-</blockquote>
-
-<blockquote>
-    <p>
-        That's your Asian "Let's connect 🔥🤝" kicking in
-    </p>
-    <cite>Jack from <a href="https://jack.cab">jack.cab</a>, on me making a 88x31</cite>
-</blockquote>
-
-<blockquote>
-    <p>
-        What is it with bottoms and being good programmers
-    </p>
-    <cite>May from <a href="https://split.pet">split.pet</a></cite>
-</blockquote>
-
-<blockquote>
-    <p>
-        L + Skill issue + unexpected operator + missing post data
-    </p>
-    <cite>ivan_stalingrad from !2</cite>
-</blockquote>
-
-<img src="IMG_8615.webp" alt="Man sitting in the sunset, with caption 'even tho you filipino you have make the most in life' with a white heart."/>
+<div style="text-align: center;">
+    <img src="IMG_8615.webp" alt="Man sitting in the sunset, with caption 'even tho you filipino you have make the most in life' with a white heart."/>
+</div>
