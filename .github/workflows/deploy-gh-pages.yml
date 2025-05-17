@@ -32,9 +32,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Install npm
-        run: sudo apt update && \
-             sudo apt upgrade && \
-             sudo apt install nodejs npm
+        run: sudo apt update \
+             && sudo apt upgrade \
+             && sudo apt install nodejs npm
       - name: Build website
         run: sudo npm install -g marker && \
               bash ./build.sh
