@@ -20,11 +20,6 @@ postdate=$(grep -oP '(?<=// DATE: ).*' "$src")
 
 echo "$title $author $postdate"
 
-if [[ ! -n "$title" || ! -n "$author" || ! -n "$postdate" ]]; then
-  echo "Missing post data. Is the file written correctly?"
-  exit 1
-fi
-
 entry=$(cat <<EOF
 <article>
   <header>
