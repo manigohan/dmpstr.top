@@ -25,6 +25,8 @@ welcome
 - [blog](blog/index.html)
 - [my gpg key](gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
 
+this is inspired off [rms' website](https://stallman.org) and [mir's website](https://marq42.xyz). don't expect anything good here
+
 <blockquote>
     <p>
         NEVER EVER STATE THAT YOU ARE INSPIRED BY RMS THIS DECADE
@@ -53,5 +55,4 @@ welcome
     <cite>ivan_stalingrad from !2</cite>
 </blockquote>
 
-
-this is inspired off [rms' website](https://stallman.org) and [mir's website](https://marq42.xyz). don't expect anything good here
+<img src="IMG_8615.webp" alt="Man sitting in the sunset, with caption 'even tho you filipino you have make the most in life' with a white heart."/>
