@@ -9,13 +9,26 @@
 <link rel="preconnect" href="https://rsms.me/">
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 <title>manigohan's website</title>
-<meta content="The stupidest static site ever -- and how I made it \ manigohan's blog" property="og:title" />
 
 ## manigohan's blog site
 
 - [home](../index.html)
 - [blog](index.html)
 - [my gpg key](../gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
+<!--
+BLOG STARTS HERE!
+-->
+
+<meta content="The stupidest static site ever -- and how I made it \ manigohan's blog" property="og:title" />
+
+<div style="text-align: center;">
+    <h1 style="border-bottom: none !important; margin-bottom: 5;">The stupidest static site ever -- and how I made it</h1>
+    <div style="text-align: right; margin-right: 50;">
+        <span style="color: gray; ">
+            manigohan
+        </span>
+    </div>
+</div>
 
 <br>
 
