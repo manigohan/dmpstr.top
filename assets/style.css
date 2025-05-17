@@ -1,0 +1,15 @@
+body { line-height: 1.4; font-size: 14pt; max-width: 45em; margin: auto };
+p{margin-block:1lh;};
+h1{font-family: "Inter Display"}
+h2{font-family: "Inter Display"}
+h3{font-family: "Inter Display"}
+code{font-family: "Jetbrains Mono"};
+body{font-family: Inter !important};
+:root {
+    --ft: Inter, sans-serif;
+    font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+}
+@supports (font-variation-settings: normal) {
+    :root { --ft: InterVariable, sans-serif; }
+}
+

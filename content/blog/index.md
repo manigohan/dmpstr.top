@@ -1,15 +1,28 @@
 <link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css">
+<link rel="stylesheet" href="../style.css">
+<link rel="preconnect" href="https://rsms.me/">
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+
+<style>
+    header {
+        border-bottom: none !important;
+    }
+    footer {
+        border-top: none !important;
+    }
+</style>
 
 ## manigohan's blog site
-<article>
-    <header>
-        <h1>
-            <img src="../TwemojiSheafOfRice.png" alt="Twemoji Sheaf of Rice" width="48" height="48"> <a href="1970-1-1-rice.html">Rice</a>
-        </h1>
-    </header>
-    <p>Rice (Oryza sativa) is a type of cereal and food. In origin, \
-    it is a swamp grass. It is eaten as staple food in many parts of Asia.</p>
-    <footer class="muted">
-    1970-1-1
-    </footer>
-</article>
+
+- [home](../index.html)
+- [blog](#)
+- [my gpg key](../gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
+
+<!--
+LEAVE EVERYTHING BELOW EMPTY! 
+-->
+
+
+
+
+
