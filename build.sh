@@ -19,7 +19,7 @@ bash ./tools/nuke_blog_entries.sh
 
 # Add blog entries before building everything
 find "$blog_content" -type f -iname "*.md" \
-	-exec sh -c './tools/append_blog_entry.sh "$1"' - {} \;
+	-exec bash -c './tools/append_blog_entry.sh "$1"' - {} \;
 
 # Assume we are running in project root!
 find "$content" -type f -iname "*.md" | while IFS= read -r input; do
