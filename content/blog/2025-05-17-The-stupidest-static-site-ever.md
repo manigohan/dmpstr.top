@@ -14,12 +14,14 @@
 
 - [home](../index.html)
 - [blog](index.html)
+- [sponsor me!](../liberapay.html)
 - [my gpg key](../gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
 <!--
 BLOG STARTS HERE!
 -->
 
-<meta content="The stupidest static site ever -- and how I made it \ manigohan's blog" property="og:title" />
+<meta content="manigohan's blog" property="og:title" />
+<meta content="The stupidest static site ever -- and how I made it" property="og:description" />
 
 <div style="text-align: center;">
     <h1 style="border-bottom: none !important; margin-bottom: 5;">The stupidest static site ever -- and how I made it</h1>

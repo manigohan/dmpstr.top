@@ -18,6 +18,7 @@
 
 - [home](../index.html)
 - [blog](#)
+- [sponsor me!](../liberapay.html)
 - [my gpg key](../gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
 
 <!--
