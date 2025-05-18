@@ -29,6 +29,7 @@ welcome
 - [sponsor me!](/liberapay/)
 - [my gpg key](/gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
 - [quotes from the best](/quotes/)
+- [my devices](/devices/)
 
 this is inspired off [rms' website](https://stallman.org) and [mir's website](https://marq42.xyz). don't expect anything good here
 

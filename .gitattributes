@@ -1,2 +1,9 @@
 assets/iwishthaticouldfall.GIF filter=lfs diff=lfs merge=lfs -text
 assets/IMG_8615.webp filter=lfs diff=lfs merge=lfs -text
+assets/android/sm6125.png filter=lfs diff=lfs merge=lfs -text
+assets/android/a34xpurple.webp filter=lfs diff=lfs merge=lfs -text
+assets/android/ginkgoblue.png filter=lfs diff=lfs merge=lfs -text
+assets/android/IMG_8615.webp filter=lfs diff=lfs merge=lfs -text
+assets/android/msm8917.png filter=lfs diff=lfs merge=lfs -text
+assets/android/mt6877.png filter=lfs diff=lfs merge=lfs -text
+assets/android/rolexblack.png filter=lfs diff=lfs merge=lfs -text

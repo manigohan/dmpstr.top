@@ -39,3 +39,52 @@ LEAVE EVERYTHING BELOW EMPTY!
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article>
+  <header>
+    <h1><a href="2025-05-17-The-stupidest-static-site-ever.html">The stupidest static site ever -- and how I made it</a></h1>
+  </header>
+  <footer class="muted">
+    2025-05-17
+  </footer>
+</article>
