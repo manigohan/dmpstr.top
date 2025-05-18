@@ -23,6 +23,7 @@ welcome
 
 - [home](#)
 - [blog](blog/index.html)
+- [sponsor me!](liberapay.html)
 - [my gpg key](gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
 - [quotes from the best](quotes.html)
 
