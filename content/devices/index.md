@@ -42,13 +42,13 @@
 
 <div style="text-align: center;">
     <a href="https://wiki.postmarketos.org/wiki/Qualcomm_Snapdragon_665_(SM6125)">
-        <img src="../sm6125.png" alt="Snapdragon 665" height="100"/>
+        <img src="../android/sm6125.png" alt="Snapdragon 665" height="100"/>
     </a>    
     <a href="https://wiki.postmarketos.org/wiki/Qualcomm_Snapdragon_425/427/430/435_(MSM8917/MSM8920/MSM8937/MSM8940)">
-        <img src="../msm8917.png" alt="Snapdragon 425" height="100"/>
+        <img src="../android/msm8917.png" alt="Snapdragon 425" height="100"/>
     </a>
     <a href="#">
-        <img src="../mt6877.png" alt="Dimensity 1080" height="100"/>
+        <img src="../android/mt6877.png" alt="Dimensity 1080" height="100"/>
     </a>
 </div>
 
@@ -58,10 +58,10 @@
             <a href="https://wiki.postmarketos.org/wiki/Category:Xiaomi">Xiaomi</a> Devices
         </figcaption>
         <a href="https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_Note_8_(xiaomi-ginkgo)">
-            <img src="../ginkgoblue.png" alt="Redmi Note 8 in blue" height="270"/>
+            <img src="../android/ginkgoblue.png" alt="Redmi Note 8 in blue" height="270"/>
         </a>
         <a href="https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_4A_(xiaomi-rolex)">
-            <img src="../rolexblack.png" alt="Redmi 4a in black" height="200"/>
+            <img src="../android/rolexblack.png" alt="Redmi 4a in black" height="200"/>
         </a>
     </figure>
 </div>
@@ -73,7 +73,7 @@
             <a href="https://wiki.postmarketos.org/wiki/Category:Samsung">Samsung</a> Devices
         </figcaption>
         <a href="https://wiki.postmarketos.org/wiki/Samsung_Galaxy_A34_5G_(samsung-a34x)">
-            <img src="../a34xpurple.webp" alt="Galaxy A34 in purple" height="270"/>
+            <img src="../android/a34xpurple.webp" alt="Galaxy A34 in purple" height="270"/>
         </a>
     </figure>
 </div>
