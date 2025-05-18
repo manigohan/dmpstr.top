@@ -1,5 +1,6 @@
 #!/bin/sh
-
+# All the code here are licensed under LGPL-2.1.
+# Copyright (c) 2025 manigohan
 if [ -z "$1" ]; then
   echo "No blog post provided. Exiting.."
   exit 1

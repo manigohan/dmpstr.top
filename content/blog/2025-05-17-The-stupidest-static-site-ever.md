@@ -1,9 +1,11 @@
 <!--
-// SPDX-License-Identifier: CC-BY-NC-SA-1.0
+// SPDX-License-Identifier: GNU-LGPL-2.1, CC-BY-NC-SA-1.0
 // TITLE: The stupidest static site ever -- and how I made it
 // DATE: 2025-05-17
 // AUTHOR: manigohan
 -->
+
+<!-- All the code here (excluding matcha.css and Inter) are licensed under LGPL-2.1.-->
 <link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css">
 <link rel="stylesheet" href="../style.css">
 <link rel="preconnect" href="https://rsms.me/">
@@ -16,8 +18,10 @@
 - [blog](index.html)
 - [sponsor me!](../liberapay.html)
 - [my gpg key](../gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
+
 <!--
 BLOG STARTS HERE!
+// SPDX-License-Identifier: CC-BY-NC-SA-1.0
 -->
 
 <meta content="manigohan's blog" property="og:title" />

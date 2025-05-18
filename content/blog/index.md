@@ -1,3 +1,4 @@
+<!-- All the code here (excluding matcha.css and Inter) are licensed under LGPL-2.1.-->
 <link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css">
 <link rel="stylesheet" href="../style.css">
 <link rel="preconnect" href="https://rsms.me/">

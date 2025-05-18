@@ -1,3 +1,4 @@
+<!-- All the code here (excluding matcha.css and Inter) are licensed under LGPL-2.1.-->
 <link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css">
 <link rel="stylesheet" href="style.css">
 <link rel="preconnect" href="https://rsms.me/">
@@ -9,6 +10,8 @@
 - [home](index.html)
 - [blog](blog/index.html)
 - [my gpg key](gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
+
+<!-- All the content below are licensed under CC-BY-NC-SA-1.0. -->
 
 <blockquote>
     <p>

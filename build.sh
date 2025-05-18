@@ -1,5 +1,6 @@
 #!/bin/sh
-
+# All the code here are licensed under LGPL-2.1.
+# Copyright (c) 2025 manigohan
 content="$PWD/content"
 blog_content="$content/blog"
 out="$PWD/out"

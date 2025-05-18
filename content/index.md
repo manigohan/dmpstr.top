@@ -1,3 +1,4 @@
+<!-- All the code here (excluding matcha.css and Inter) are licensed under LGPL-2.1.-->
 <link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css">
 <link rel="stylesheet" href="style.css">
 <link rel="preconnect" href="https://rsms.me/">
@@ -8,7 +9,7 @@
 ## manigohan's website
 
 welcome
-
+<!---->
 <div style="text-align: center;">
   <div style="display: inline-block; position: relative;">
     <img src="iwishthaticouldfall.GIF" alt="Gumi SV falling in various backgrounds. Produced by JamieP.">
@@ -20,6 +21,8 @@ welcome
     </small>
   </div>
 </div>
+
+<!-- All the content below are licensed under CC-BY-NC-SA-1.0. -->
 
 - [home](#)
 - [blog](blog/index.html)
