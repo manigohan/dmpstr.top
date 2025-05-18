@@ -51,3 +51,10 @@
     </p>
     <cite>ivan_stalingrad from !2</cite>
 </blockquote>
+
+<blockquote>
+    <p>
+        Should i get cat ears
+    </p>
+    <cite><a href="https://github.com/Shirayuki39">Shirayuki428</a></cite>
+</blockquote>
