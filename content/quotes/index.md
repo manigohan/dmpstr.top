@@ -7,9 +7,9 @@
 <meta content="manigohan's website" property="og:title" />
 
 ## manigohan's website
-- [home](index.html)
-- [blog](blog/index.html)
-- [my gpg key](gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
+- [home](/)
+- [blog](/blog/)
+- [my gpg key](/gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
 
 <!-- All the content below are licensed under CC-BY-NC-SA-1.0. -->
 

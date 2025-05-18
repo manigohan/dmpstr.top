@@ -25,10 +25,10 @@ welcome
 <!-- All the content below are licensed under CC-BY-NC-SA-1.0. -->
 
 - [home](#)
-- [blog](blog/index.html)
-- [sponsor me!](liberapay.html)
-- [my gpg key](gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
-- [quotes from the best](quotes.html)
+- [blog](/blog/)
+- [sponsor me!](/liberapay/)
+- [my gpg key](/gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
+- [quotes from the best](/quotes/)
 
 this is inspired off [rms' website](https://stallman.org) and [mir's website](https://marq42.xyz). don't expect anything good here
 

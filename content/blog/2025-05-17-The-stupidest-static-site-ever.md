@@ -14,10 +14,10 @@
 
 ## manigohan's blog site
 
-- [home](../index.html)
-- [blog](index.html)
-- [sponsor me!](../liberapay.html)
-- [my gpg key](../gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
+- [home](/)
+- [blog](/blog/)
+- [sponsor me!](/liberapay/)
+- [my gpg key](/gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
 
 <!--
 BLOG STARTS HERE!
