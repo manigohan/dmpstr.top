@@ -30,6 +30,7 @@ welcome
 - [my gpg key](/gpg-key-manigohan-at-national-dot-shitposting-dot-agency-2025-07-16.txt)
 - [quotes from the best](/quotes/)
 - [my devices](/devices/)
+- [my commits in linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=Gabriel+Gonzales)
 
 this is inspired off [rms' website](https://stallman.org) and [mir's website](https://marq42.xyz). don't expect anything good here
 
