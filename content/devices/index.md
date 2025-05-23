@@ -47,9 +47,6 @@
     <a href="https://wiki.postmarketos.org/wiki/Qualcomm_Snapdragon_425/427/430/435_(MSM8917/MSM8920/MSM8937/MSM8940)">
         <img src="../android/msm8917.png" alt="Snapdragon 425" height="100"/>
     </a>
-    <a href="#">
-        <img src="../android/mt6877.png" alt="Dimensity 1080" height="100"/>
-    </a>
 </div>
 
 <div class="box">
@@ -65,17 +62,3 @@
         </a>
     </figure>
 </div>
-
-
-<div class="box">
-    <figure>
-        <figcaption>
-            <a href="https://wiki.postmarketos.org/wiki/Category:Samsung">Samsung</a> Devices
-        </figcaption>
-        <a href="https://wiki.postmarketos.org/wiki/Samsung_Galaxy_A34_5G_(samsung-a34x)">
-            <img src="../android/a34xpurple.webp" alt="Galaxy A34 in purple" height="270"/>
-        </a>
-    </figure>
-</div>
-
-
