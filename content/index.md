@@ -36,4 +36,5 @@ this is inspired off [rms' website](https://stallman.org) and [mir's website](ht
 
 <div style="text-align: center;">
     <img src="IMG_8615.webp" alt="Man sitting in the sunset, with caption 'even tho you filipino you have make the most in life' with a white heart."/>
+    <img src="https://count.getloli.com/@manigohan?name=manigohan&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="count.getloli.com counter"/>
 </div>
